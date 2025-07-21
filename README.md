@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -59,4 +60,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
