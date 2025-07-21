@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -44,8 +45,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
