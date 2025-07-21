@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
