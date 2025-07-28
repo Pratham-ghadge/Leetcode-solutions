@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@
 | [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
