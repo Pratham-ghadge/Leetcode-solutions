@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -114,5 +116,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
