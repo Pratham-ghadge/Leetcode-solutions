@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -31,6 +32,7 @@
 | [0001-two-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## Union Find
@@ -82,6 +84,7 @@
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
@@ -106,5 +109,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
