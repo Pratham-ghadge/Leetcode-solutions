@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -99,6 +100,7 @@
 | [0035-search-insert-position](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
