@@ -31,6 +31,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -108,6 +109,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
 |  |
