@@ -8,7 +8,7 @@ public:
 
         int left = *min_element(bloomDay.begin(), bloomDay.end());
         int right = *max_element(bloomDay.begin(), bloomDay.end());
-        int result = 0;
+     
 
 
         while (left < right) {
