@@ -34,6 +34,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
@@ -113,6 +114,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
