@@ -82,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Two Pointers
 |  |
@@ -152,4 +153,8 @@
 | [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
