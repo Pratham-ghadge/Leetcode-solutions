@@ -49,6 +49,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## Union Find
 |  |
@@ -85,6 +86,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -114,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
