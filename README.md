@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
@@ -163,6 +165,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## Simulation
