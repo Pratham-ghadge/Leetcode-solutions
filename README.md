@@ -91,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
@@ -154,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
