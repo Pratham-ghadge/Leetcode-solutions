@@ -56,6 +56,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0812-rotate-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
