@@ -100,6 +100,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -193,6 +194,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
