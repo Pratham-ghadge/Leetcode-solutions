@@ -77,6 +77,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0908-middle-of-the-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
