@@ -82,6 +82,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0148-sort-list) |
@@ -140,6 +141,7 @@
 | [0016-3sum-closest](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0125-valid-palindrome) |
