@@ -106,6 +106,7 @@
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
