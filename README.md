@@ -111,6 +111,7 @@
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -123,6 +124,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
