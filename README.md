@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
