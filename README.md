@@ -115,6 +115,7 @@
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+| [3830-find-closest-person](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
