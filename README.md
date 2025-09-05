@@ -273,4 +273,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
