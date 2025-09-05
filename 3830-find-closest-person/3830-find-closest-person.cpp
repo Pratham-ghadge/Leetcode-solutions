@@ -4,10 +4,10 @@ public:
         int d13;
         int d23;
 
-        if(x >= z){
-            d13= x - z;
-        }else{
-            d13=z - x;
+        if (x >= z) {
+            d13 = x - z;
+        } else {
+            d13 = z - x;
         }
 
         if (y >= z) {
