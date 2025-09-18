@@ -41,6 +41,7 @@
 | [0907-koko-eating-bananas](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
@@ -105,6 +106,7 @@
 | [0328-odd-even-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -254,6 +256,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
@@ -297,4 +300,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
