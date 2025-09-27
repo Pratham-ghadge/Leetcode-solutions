@@ -125,6 +125,7 @@
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -139,6 +140,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## String
@@ -312,6 +314,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Monotonic Stack
 |  |
 | ------- |
