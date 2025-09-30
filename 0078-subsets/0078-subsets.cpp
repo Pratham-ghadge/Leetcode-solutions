@@ -1,29 +1,21 @@
 class Solution {
 public:
-    void findsubset(vector<int>& nums, vector<int>& subset, int i,
-                    vector<vector<int>>& res) {
-        if (i == nums.size()) {
-            res.push_back(subset);
-            return;
-        }
-        //    include the i'th position number to the subset
-        subset.push_back(nums[i]);
-        findsubset(nums, subset, i + 1, res);
-
-        // backtrack and excludes the ith postion number and add to the remaning
-        // array in subset
-        subset.pop_back();
-        findsubset(nums, subset, i + 1, res);
-    }
-
-
-
     vector<vector<int>> subsets(vector<int>& nums) {
+        int totalsubset = 1 << nums.size();
+        vector<int>list;
+        vector<vector<int>>ans;
 
-        vector<int>subset;
-        vector<vector<int>>res;
-        findsubset(nums,subset,0,res);
-        return res;
+        for(int num = 0 ; num < totalsubset ;num++){
+
+            list={};
+            for(int i= 0 ; i < nums.size();i++){
+               if(num &(1 << i)){
+                list.push_back(nums[i]);
+               }
+            }
+
+            ans.push_back(list);
+        }
+        return ans;
     }
-    
 };
