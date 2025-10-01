@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -319,6 +320,7 @@
 | [0136-single-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
