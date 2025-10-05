@@ -268,6 +268,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -326,4 +327,8 @@
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
