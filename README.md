@@ -42,6 +42,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -74,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -270,6 +272,7 @@
 | [0020-valid-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
@@ -326,6 +329,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
 |  |
