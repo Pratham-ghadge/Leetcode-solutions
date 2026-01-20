@@ -224,6 +224,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -327,6 +328,7 @@
 | [0090-subsets-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -351,6 +353,7 @@
 | [0110-balanced-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -373,6 +376,7 @@
 | [0110-balanced-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
