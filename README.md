@@ -284,6 +284,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -356,6 +357,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -393,4 +397,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
