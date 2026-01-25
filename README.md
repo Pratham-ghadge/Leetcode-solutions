@@ -354,6 +354,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -368,6 +369,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -383,6 +385,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -397,6 +400,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
