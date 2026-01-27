@@ -48,6 +48,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0940-fruit-into-baskets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -218,6 +219,7 @@
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0148-sort-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -296,14 +299,17 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -422,4 +428,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
