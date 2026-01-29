@@ -136,6 +136,7 @@
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -153,6 +154,7 @@
 | [0206-reverse-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -252,6 +254,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -321,6 +324,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
