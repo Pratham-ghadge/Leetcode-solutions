@@ -136,6 +136,7 @@
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
@@ -154,6 +155,7 @@
 | [0206-reverse-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## String
@@ -353,6 +355,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
