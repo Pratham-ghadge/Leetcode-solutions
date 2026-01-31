@@ -1,31 +1,67 @@
 class Solution {
 public:
-    bool isValid(string s) {
-        if (s.empty())
-            return true;
+    /*
+    // using Recursion + stack
+     bool match(char open , char close){
+            return (open=='(' && close==')') ||
+                   (open=='{' && close=='}') ||
+                   (open=='[' && close==']');
+        }
 
-        stack<char> st;
 
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '[' || s[i] == '{' || s[i] == '(') {
-                st.push(s[i]);
-            } else if (st.empty()) {
+        bool check(string s, int idx, stack<char>& stack) {
+            if (stack.empty() && idx == s.size())
+                return true;
+            if (!stack.empty() && idx == s.size())
                 return false;
-            } else if (s[i] == ')' && st.top() == '(') {
-                st.pop();
-            } else if (s[i] == ']' && st.top() == '[') {
-                st.pop();
-            } else if (s[i] == '}' && st.top() == '{') {
-                st.pop();
-            } else {
-                return false;
+
+            if (s[idx] == '{' || s[idx] == '[' || s[idx] == '(') {
+                stack.push(s[idx]);
+                return check(s, idx + 1, stack);
             }
+
+            if (stack.empty())
+                return false;
+
+            if(!match(stack.top(), s[idx]))
+                return false;
+
+            stack.pop();
+
+             return check(s, idx + 1, stack);
         }
 
-        if (!st.empty()) {
-            return false;
+        bool isValid(string s) {
+            stack<char> stack;
+            return check(s, 0, stack);
         }
 
-        return true;
+        */
+
+    //  using the stack Only
+
+    bool isValid(string s) {
+        stack<char> stack;
+        for (char c : s) {
+            if (c == '{' || c == '[' || c == '(') {
+                stack.push(c);
+            }
+             else{
+
+                if(stack.empty()) return false;
+
+                if(
+                    (c == ')' && stack.top() != '(') ||
+                    (c == '}' && stack.top() != '{') ||
+                    (c == ']' && stack.top() != '[')
+                ){
+                    return false;
+                }
+
+                stack.pop();
+            }
+
+        }
+           return stack.empty();
     }
 };
