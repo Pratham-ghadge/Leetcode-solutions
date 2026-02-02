@@ -141,6 +141,7 @@
 | [0231-power-of-two](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -179,6 +180,7 @@
 | [0224-basic-calculator](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0812-rotate-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -206,6 +208,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
