@@ -57,6 +57,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2047-find-a-peak-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [0503-next-greater-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String Matching
 |  |
 | ------- |
@@ -462,4 +465,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
