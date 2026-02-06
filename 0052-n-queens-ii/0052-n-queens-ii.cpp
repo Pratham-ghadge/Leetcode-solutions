@@ -1,0 +1,59 @@
+class Solution {
+public:
+    bool issafe(vector<string>& board, int row, int col, int n) {
+
+        // check the horizontal
+
+        for (int i = 0; i < n; i++) {
+            if (board[row][i] == 'Q')
+                return false;
+        }
+
+        // check vertically
+        for (int i = 0; i < n; i++) {
+            if (board[i][col] == 'Q')
+                return false;
+        }
+
+        // check diagonally
+        // left diagonal
+        for (int i = row, j = col; i >= 0 && j >= 0; i--, j--) {
+            if (board[i][j] == 'Q')
+                return false;
+        }
+        // right diagonal
+        for (int i = row, j = col; i >= 0 && j < n; i--, j++) {
+            if (board[i][j] == 'Q')
+                return false;
+        }
+
+        return true;
+    }
+
+    void nqueens(vector<string>& board, int row, int n,
+                 int &ans) {
+
+        if (row == n) {
+            ans++;
+            return;
+        }
+
+        for (int j = 0; j < n; j++) {
+
+            if (issafe(board, row, j, n)) {
+                board[row][j] = 'Q';
+
+                nqueens(board, row + 1, n, ans);
+                board[row][j] = '.';
+            }
+        }
+    }
+
+    int totalNQueens(int n) {
+       vector<string> board(n, string(n, '.'));
+        int ans = 0;
+
+        nqueens(board, 0, n, ans);
+        return ans;
+    }
+};
