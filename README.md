@@ -381,6 +381,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -468,5 +469,10 @@
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
