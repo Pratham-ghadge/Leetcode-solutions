@@ -48,6 +48,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -238,6 +239,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
