@@ -62,6 +62,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2047-find-a-peak-element-ii](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
