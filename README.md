@@ -60,6 +60,7 @@
 | [0940-fruit-into-baskets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
