@@ -1,21 +1,16 @@
 class Solution {
 public:
+    int solve(int n, vector<int>& memo) {
+        if (n <= 1) return n;
+
+        if (memo[n] != -1) return memo[n];
+
+        return memo[n] = solve(n - 1, memo) + solve(n - 2, memo);
+    }
+
     int fib(int n) {
-
-        // Base cases
         if (n == 0) return 0;
-        if (n == 1) return 1;
-
-        int prev2 = 0;  
-        int prev = 1;   
-
-        for(int i = 2; i <= n; i++) {
-            int curri = prev + prev2;  
-
-            prev2 = prev;   
-            prev = curri;
-        }
-
-        return prev;  
+        vector<int> memo(n + 1, -1);
+        return solve(n, memo);
     }
 };
