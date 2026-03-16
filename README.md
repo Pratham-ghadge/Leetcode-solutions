@@ -145,6 +145,7 @@
 | [0013-roman-to-integer](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -277,6 +278,7 @@
 | [0010-regular-expression-matching](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -356,6 +358,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Pratham-ghadge/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Database
